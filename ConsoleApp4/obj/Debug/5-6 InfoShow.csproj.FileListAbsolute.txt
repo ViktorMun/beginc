@@ -1,0 +1,6 @@
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp4\obj\Debug\5-6 InfoShow.csproj.CoreCompileInputs.cache
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

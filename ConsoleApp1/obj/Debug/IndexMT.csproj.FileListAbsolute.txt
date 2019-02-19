@@ -1,0 +1,6 @@
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp1\obj\Debug\IndexMT.csproj.CoreCompileInputs.cache
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

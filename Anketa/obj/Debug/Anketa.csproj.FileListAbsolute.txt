@@ -1,0 +1,7 @@
+c:\users\asusvivo\source\repos\Anketa\Anketa\obj\Debug\Anketa.csprojAssemblyReference.cache
+c:\users\asusvivo\source\repos\Anketa\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+c:\users\asusvivo\source\repos\Anketa\Anketa\bin\Debug\Anketa.exe.config
+c:\users\asusvivo\source\repos\Anketa\Anketa\bin\Debug\Anketa.exe
+c:\users\asusvivo\source\repos\Anketa\Anketa\bin\Debug\Anketa.pdb
+c:\users\asusvivo\source\repos\Anketa\Anketa\obj\Debug\Anketa.exe
+c:\users\asusvivo\source\repos\Anketa\Anketa\obj\Debug\Anketa.pdb

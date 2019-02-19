@@ -1,0 +1,6 @@
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp3\obj\Debug\4 change12.csproj.CoreCompileInputs.cache
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\AsusVivo\source\repos\Anketa\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
